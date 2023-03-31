@@ -1,1 +1,2 @@
-# GTC2023
+# GTC
+GTC 2023 AI related seesion record
